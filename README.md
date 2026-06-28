@@ -12,6 +12,7 @@ Prop trading firms provide capital to traders who pass evaluation challenges. Th
 - [Prop Firms — Futures](#prop-firms--futures)
 - [Comparison Tools](#comparison-tools)
 - [Discount Codes](#discount-codes)
+- [Challenge Passing Services](#challenge-passing-services)
 - [Trading Platforms](#trading-platforms)
 - [Education](#education)
 - [Communities](#communities)
@@ -77,6 +78,14 @@ Active discount codes for prop firm challenges, updated daily:
 
 Use code **PFK** for exclusive discounts on most firms.
 
+
+## Challenge Passing Services
+
+Professional services that help traders pass prop firm evaluations.
+
+| Service | Highlights |
+|---------|-----------|
+| [ElitePropX](https://elitepropx.com) | Professional prop firm challenge passing. Pass FTMO, FundedNext, The5ers, Topstep & more. 95% success rate. Flat fee from $220. Free test available. |
 ## Trading Platforms
 
 ### Forex
